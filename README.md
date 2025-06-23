@@ -20,5 +20,7 @@ The provided code uses Natural Language Processing (NLP) techniques, specificall
 
  *OUTPUT:*
 
+ ![Image](https://github.com/user-attachments/assets/a1f77cef-c4df-4b50-b7ad-e12bf62debcb)
+
  
 
